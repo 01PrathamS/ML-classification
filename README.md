@@ -14,3 +14,5 @@ Q: The Differance between transform and fit_transform?
 
 ***we cannot use the fit() method on the test dataset, because it will be the wrong approach as it could introduce bias to the testing dataset. So, let us try to use the transform() method directly on the test dataset.
 
+Q: Decision Boundary:
+==>While training a classifier on a dataset, using a specific classification algorithm, it is required to define a set of hyper-planes, called Decision Boundary.
